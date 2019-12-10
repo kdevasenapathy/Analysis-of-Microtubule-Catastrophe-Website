@@ -2,11 +2,13 @@ title: Your Research Project Title
 description: > # this means to ignore newlines until "baseurl:"
   This website is an online repository for your manuscript. You should include a
   concise (1-sentence) summary of your project here. This can be as simple as
-  the title of the paper.  
+  the title of the paper.
 
 # permalink: ':title/'
 baseurl:  "" # the subpath of your site, In most cases this can be left blank
 url: "" # Base of your website.In most cases, this will be left blank
+site.baseurl: "/"
+site.url: ""
 
 # You can include social icons
 site-twitter: #if your site has a twitter account, enter it here
@@ -18,7 +20,7 @@ email: username@hostname.com
 # website page
 analytics:
 
-# You can include a logo for your work as a .png that is saved in the folder 
+# You can include a logo for your work as a .png that is saved in the folder
 # 'assets/img/'. If you want a logo to show up, put the filename of the logo here
 author-img: logo.png # Comment this line out if you don't want a logo
 
