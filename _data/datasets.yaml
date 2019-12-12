@@ -1,5 +1,11 @@
 - dataset:
   storage: local
-  name: Measured Times for Microtubule Catastrophe
+  name: Measured Times for Microtubule Catastrophe using Tubulin
   filetype: ".csv"
   link: gardner_mt_catastrophe_only_tubulin.csv
+
+- dataset:
+  storage: local
+  name: Tidied Data of Measured Times for Microtubule Catastrophe DIC
+  filetype: ".csv"
+  link: gardner_time_to_catastrophe_dic_tidy.csv
