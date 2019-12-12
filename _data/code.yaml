@@ -3,3 +3,10 @@
   desc: >
     Script to generate Figure 1, which plots the ecdfs of the labeled
     and unlabeled catastrophe times.
+
+- script:
+  name: simulated_succ_poisson.py
+  desc: >
+    Script to generate Figure 2, which plots the simulated ECDFs of
+    several ratios of B2 to B1 for simulated successive poisson processes
+    versus B1 times time.
